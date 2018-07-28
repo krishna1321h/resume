@@ -1,0 +1,55 @@
+{"details":{
+  "image":"profile.jpg",
+  "name":"krishnaveni",
+  "phno":"+91-6655677567",
+  "email":"krishna@gmail.com",
+  "address":"patamata,vijayawada"
+},
+"career":{
+  "info":"to do ms in us"
+},
+"education":[{
+  "qualificatiqualification":"B.tech",
+  "institute":"mic college of technology",
+  "year":"2016-2020",
+  "percentage":"83%"
+},
+{
+  "qualification":"intermediate",
+  "institute":"sri chaitanya jr college",
+  "year":"2014-2016",
+  "percentage":"90"
+},
+{
+  "qualification":"ssc",
+  "institute":"viswavani public scchool",
+  "year":"2013-2014",
+  "percentage":"83%"
+}
+],
+
+"skills":[{
+"title":"programming language",
+"info":["c,c++,java,python"]
+},
+{
+  "title":"databases",
+  "info":["oracle,sql,mysql"]
+},
+{
+  "title":"operating systems",
+  "info":["windows,linux,unix,mac"]
+}
+],
+"achievements":[{
+
+  "info":["i won second prize in coding "]
+},
+{
+  "info":["won 1st prize in paper presentation"]
+},
+{
+  "info":["attended technical workshops"]
+}
+]
+}
